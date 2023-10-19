@@ -1,0 +1,1 @@
+export const micro_path = '../microApp/'
